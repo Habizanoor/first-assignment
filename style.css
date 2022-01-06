@@ -39,3 +39,29 @@ h1{
 .half-width img{
     width: 75%;
 }
+#mission-heading{
+    text-align: center;
+}
+.card{
+    width: 25%;
+    padding: 20px;
+    
+    margin-left: 5%;
+    border-radius: 20px;
+}
+.card img{
+    width: 30%;
+}
+.card p{
+    color: gray;
+}
+#mission{
+    background-color: #4f9da649;
+}
+#vission{
+    background-color: #ff595957;
+}
+#goals{
+    background-color: #FFF4D6;
+    
+}
