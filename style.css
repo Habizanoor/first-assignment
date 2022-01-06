@@ -35,6 +35,7 @@ h1{
     text-decoration: none;
     color: white;
     font-weight: 700;
+    border-radius: 10px;
 }
 .half-width img{
     width: 75%;
@@ -46,7 +47,8 @@ h1{
     width: 25%;
     padding: 20px;
     
-    margin-left: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
     border-radius: 20px;
 }
 .card img{
@@ -56,7 +58,7 @@ h1{
     color: gray;
 }
 #mission{
-    background-color: #4f9da649;
+    background-color: #4f9da657;
 }
 #vission{
     background-color: #ff595957;
@@ -64,4 +66,21 @@ h1{
 #goals{
     background-color: #FFF4D6;
     
+}
+.mission-sec{
+    background-image: url(./image/shapes/Group\ 57404.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.limitless{
+    background-image: url(./image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+.global-com {
+    background-image: url(./image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right bottom;
 }
