@@ -84,3 +84,33 @@ h1{
     background-size: 200px;
     background-position: right bottom;
 }
+.commitment-pics{
+    display: flex;
+    margin-bottom: 100px;
+}
+.commitment h1{
+    text-align: center;
+}
+.comnty-img{
+    width: 30%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.comnty-img img{
+    width: 100%;
+}
+footer h1{
+    
+    font-family: 'The Nautigal', cursive;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+small{
+    font-size: 10px;
+}
